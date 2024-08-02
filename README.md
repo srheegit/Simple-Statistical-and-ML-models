@@ -6,6 +6,7 @@ The models that I have implemented in code so far are as follows:
 - Linear Regression
 - Logistic Regression
 - Softmax regression
+- Feature engineering (Polynomial regression)
 - LOWESS and LOESS models
 - Various Naiva Bayes Classification models: Gaussian, Multinomial, and Complement
 - Gaussian Discriminant Analysis model
