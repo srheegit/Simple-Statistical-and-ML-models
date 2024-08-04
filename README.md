@@ -10,5 +10,6 @@ The models that I have implemented in code so far are as follows:
 - LOWESS and LOESS models
 - Various Naiva Bayes Classification models: Gaussian, Multinomial, and Complement
 - Gaussian Discriminant Analysis model
+- Support Vector Machines (SVMs)
 
 More will be uploaded after my polish.
