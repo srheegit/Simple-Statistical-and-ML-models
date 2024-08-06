@@ -11,5 +11,8 @@ The models that I have implemented in code so far are as follows:
 - Various Naiva Bayes Classification models: Gaussian, Multinomial, and Complement
 - Gaussian Discriminant Analysis model
 - Support Vector Machines (SVMs)
+- Data Split
+- Cross Validation
+- Feature Selection (filter method, wrapper method, and embedded method)
 
 More will be uploaded after my polish.
